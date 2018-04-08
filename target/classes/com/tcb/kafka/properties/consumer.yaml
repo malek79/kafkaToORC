@@ -1,0 +1,15 @@
+# consumer configuration
+consumerThreadNumber: 1
+workerThreadNumber: 2
+cacheFolder: /tmp/orc
+timeSliceMinutes: 60
+pidLocation: /run/tsv-to-orc
+orcTemplatePath: src/main/resources/orcTemplate.json
+hdfs:
+  hdfsSite: hdfs-site.xml
+  coreSite: core-site.xml
+  baseDir: /user/root/tsv-orc
+kafka:
+  consumerGroup: g17
+  bootstrapServers: 9771c7f9c409:9092
+  topicName: tsv-orc

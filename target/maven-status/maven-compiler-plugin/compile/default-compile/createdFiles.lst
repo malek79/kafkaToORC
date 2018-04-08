@@ -1,0 +1,17 @@
+com/tcb/kafka/ConsumerGroupDriver.class
+com/tcb/kafka/writeORC/ConsumerGroupLoop.class
+com/tcb/kafka/writeORC/ConsumerGroupDriver.class
+com/tcb/kafka/ProducerFromTsv.class
+com/tcb/kafka/SimpleSingleton.class
+com/tcb/kafka/SingleWriter.class
+com/tcb/kafka/writeORC/SingleWriter.class
+com/tcb/kafka/writeORC/ConsumerGroupDriver$1.class
+com/tcb/kafka/ConsumerToOrc$1.class
+com/tcb/kafka/ConsumerGroupLoop$1.class
+com/tcb/kafka/ConsumerGroupDriver$1.class
+com/tcb/kafka/ConsumerToOrc.class
+com/tcb/kafka/ConsumerToOrc2Singleton.class
+com/tcb/kafka/ReaderOrc.class
+com/tcb/kafka/ConsumerConfig.class
+com/tcb/kafka/ConsumerToOrc2Singleton$1.class
+com/tcb/kafka/ConsumerGroupLoop.class

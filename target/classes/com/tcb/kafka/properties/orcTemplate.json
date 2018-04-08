@@ -1,0 +1,10 @@
+{
+	"1":{
+		"name":"id",
+		"type":"int"
+	},
+	"4":{
+		"name":"referer",
+		"type":"string"
+	}
+}
